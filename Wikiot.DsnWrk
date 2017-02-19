@@ -24,3 +24,9 @@ ProjectPath=STM32P32.PrjPCB
 ProjectPath=STM8P32.PrjPCB
 [Project12]
 ProjectPath=FT2232D.PrjPCB
+[Project13]
+ProjectPath=Memory.PrjPcb
+[Project14]
+ProjectPath=Battery.PrjPCB
+[Project15]
+ProjectPath=OLED_0.96.PrjPcb
