@@ -88,7 +88,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OIUNLPLO
 
 [Document4]
-DocumentPath=Memory.PcbDoc
+DocumentPath=Memory-A2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -301,6 +301,11 @@ OutputName6=XSpice Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=PADSNetlist
+OutputName7=PADS ASCII Netlist
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
 
 [OutputGroup2]
 Name=Simulator Outputs
