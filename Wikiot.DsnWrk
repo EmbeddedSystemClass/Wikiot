@@ -30,3 +30,7 @@ ProjectPath=Memory.PrjPcb
 ProjectPath=Battery.PrjPCB
 [Project15]
 ProjectPath=OLED_0.96.PrjPcb
+[Project16]
+ProjectPath=vs10x3.PrjPCB
+[Project17]
+ProjectPath=WikiPilot.PrjPcb
